@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My GitHub Contributions
-
-![](https://Zstwizard.github.io/Cwd295645351/github-contribution-grid-snake.svg)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zstwizard&show_icons=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zstwizard&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
