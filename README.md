@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi, 👋 I'm wizard.
+- 🔭 I'm an undergraduate student at Southeast University.
+- 🌱 I'm learning knowledge graph ,geographic information system (GIS) and LLM.
+- ⚡ Hobbies: Video games, History, Novels.
 <!--
 **Zstwizard/Zstwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zstwizard&show_icons=true&theme=transparent" /> 
-</div>
+
+### My GitHub Contributions
+
+![](https://Zstwizard.github.io/Cwd295645351/github-contribution-grid-snake.svg)
