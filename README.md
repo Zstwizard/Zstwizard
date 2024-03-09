@@ -1,7 +1,7 @@
 ### Hi, 👋 I'm wizard.
 - 🔭 I'm an undergraduate student at Southeast University.
-- 🌱 I'm learning knowledge graph ,geographic information system (GIS) and LLM.
-- ⚡ Hobbies: Video games, History, Novels.
+- 🌱 I'm learning knowledge graph, geographic information system (GIS) and LLM.
+- ⚡ Hobbies: Video games, History, Novels, French literature.
 <!--
 **Zstwizard/Zstwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
